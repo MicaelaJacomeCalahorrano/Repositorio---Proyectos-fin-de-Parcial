@@ -1,4 +1,16 @@
-
+/*
+ *||=====================================================||
+ *||======|Universidad de las Fuerzas Armadas ESPE|======||
+ *||====================|SOFTWARE|=======================||
+ *||Autor:Grupo 1                   PERIODO: ABR25-AGO26 ||
+ *||ASIGNATURA:Modelos Discretos    NRC:30627            ||
+ *||=====================================================||
+ *||TEMA:Programa que gestiona y clasifica líneas de
+ *||producción industriales mediante operaciones
+ *||de conjuntos, determinando el estado operativo de cada
+ *||línea a través de lógica proposicional.
+ *||=====================================================||
+ */
 
 #include <iostream>
 #include <string>
